@@ -12,12 +12,12 @@
 8. hashmap/dictionary
 
 ## basic algorithm 
-0. sorting:
-  * merge sort
-  * heap sort
-  * quick sort
-  * bucket sort
-  * insertion sort 
+0. sorting
+   * merge sort
+   * heap sort
+   * quick sort
+   * bucket sort
+   * insertion sort 
 1. double pointer
 2. linked list basic swap??
 3. tree (graph) traversal
