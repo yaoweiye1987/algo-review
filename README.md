@@ -1,7 +1,7 @@
 
 # algo-review
 
-##basic data structure
+## basic data structure
 1. array
 2. linked list
 3. tree
@@ -11,7 +11,7 @@
 7. queue
 8. hashmap/dictionary
 
-##basic algorithm 
+## basic algorithm 
 0. sorting:
   * merge sort
   * heap sort
