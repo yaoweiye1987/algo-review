@@ -31,3 +31,6 @@
 7. dynamic programming
 8. binary search
 9. greedy
+10. two sum
+11. moving zeros
+12. permutation
