@@ -13,9 +13,9 @@
 
 ## basic algorithm 
 0. sorting
-   * merge sort
-   * heap sort
-   * quick sort
+   * merge sort (nlogn)
+   * heap sort  (nlogn)
+   * quick sort (nlogn)
    * bucket sort
    * insertion sort 
 1. double pointer
