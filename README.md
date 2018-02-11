@@ -17,7 +17,7 @@
    * heap sort  (nlogn)
    * quick sort (nlogn)
    * bucket sort
-   * insertion sort 
+   * insertion sort (n2) 
 1. double pointer
 2. linked list basic swap??
 3. tree (graph) traversal
